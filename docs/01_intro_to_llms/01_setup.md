@@ -34,7 +34,7 @@ In this setup task, you will learn how to **start a new project** by creating a 
 * Permissions to create a Service Principal (SP) in your Azure AD Tenant.
 * Permissions to assign the Owner role or Contributor and User Access Administrator to the SP within the subscription.
 
-> [!NOTE]
+> **Note:**   
 > The Windows installers makes modifications your PATH. When using Windows Terminal or VS Code Terminal or other environment, you will need to **open a new window** for the changes to take effect. (Simply opening a new tab will _not_ be sufficient.)
 
 ### Verifiy tools are installed
@@ -49,7 +49,7 @@ In this setup task, you will learn how to **start a new project** by creating a 
     git -v
     gh --version
    ```
-> [!NOTE]  
+> **Note:**
 > if any of the tools suggest an upgrade please do so this can be acomplished with the ```winget upgrade``` conmand 
 
 
