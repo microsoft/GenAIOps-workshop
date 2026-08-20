@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This repository has been retired and is now archived. For active development, documentation, and support, please visit [AgentOps Accelerator](https://aka.ms/agentops-accelerator).**
+
 # Project
 
 > This repo has been populated by an initial template to help get you started. Please
